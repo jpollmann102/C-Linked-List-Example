@@ -1,0 +1,4 @@
+Logan 0
+Cat 40
+Television 100
+Bottle 40
